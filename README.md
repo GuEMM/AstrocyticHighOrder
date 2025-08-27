@@ -5,7 +5,7 @@ The code simulates the neuronal activity of an Leak-integrated and fire excitato
 Example notebook code for building the network with the specific topology used in Menesse et. al (2025) and running a simulation.
 The same notebook contained a cell for plot the time series of many variables including a raster plot neuronal activity.
 
-# JULIA FUNCTIONS
+# JULIA FUNCTION
 The script AstroCircuit_Functions.jl contains functions for setting up the stimuli protocol and solve system of ODE's using a simple euler method.
 
 The output of the script gives:
