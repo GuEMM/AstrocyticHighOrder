@@ -2,7 +2,7 @@ The code simulates the neuronal activity of a ring of LIF excitatory neurons cou
 
 # RUNNING MODEL
 
-Example notebook code for building the network with the specific topology used in Menesse et. al (2025) and running a simulation.
+Simulation notebook code for building the network with the specific topology used in Menesse et. al (2025) and running a simulation.
 The same notebook contains a cell for plotting the time series of variables including a raster plot of neuronal activity.
 
 # JULIA FUNCTION
